@@ -1,1 +1,1 @@
-# automatica
+Il seguente progetto è stato realizzato come elaborato finale del corso in Fondamenti di automatica erogato al secondo anno della laurea triennale in ingegneria informatica all'Università della Calabria.
